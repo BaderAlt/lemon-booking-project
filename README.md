@@ -3,12 +3,20 @@ This is a Django REST Framework project that provides APIs for managing restaura
 
 🚀 Features
 ✅ User registration and authentication using JWT (Djoser)
+
 ✅ Booking API (create, list, update, delete bookings)
+
 ✅ Menu Items API (CRUD operations)
+
 ✅ Permissions and role-based access
+
 ✅ Unit testing with TestCase
+
 ✅ Connected to MySQL / SQLite database
+
 ✅ Deployed to GitHub
+
+
 🛠️ Tech Stack
 Python 3.11+
 Django 4.x
