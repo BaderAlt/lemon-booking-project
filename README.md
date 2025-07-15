@@ -34,19 +34,14 @@ http://127.0.0.1:8000/
 
 🔐 Authentication
 Use Djoser endpoints for auth:
-
 POST /auth/users/ – Register
-
 POST /auth/jwt/create/ – Login (get JWT)
-
 POST /auth/jwt/verify/ – Verify token
-
 POST /auth/jwt/refresh/ – Refresh token
 
 
 
 🧪 Running Tests
-
 python manage.py test
 
 
